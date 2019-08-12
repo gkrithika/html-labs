@@ -1,0 +1,29 @@
+.pad{
+    padding:25px;
+  }
+.text{
+  text-align:center;
+  font-size:36pt;
+  background-color:khaki;
+}
+.heading
+{
+background-color: greenyellow;
+color:black;
+font-size:26pt;
+text-align:center;
+
+}
+.image{
+text-align: center;
+
+}
+.main-text{
+width:60%;
+float:left;
+background-color: beige
+}
+.photo{
+margin:5px;
+float: right;
+}
